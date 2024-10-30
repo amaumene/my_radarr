@@ -1,1 +1,1 @@
-# my_radarr
+# my_sonarr
