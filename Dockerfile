@@ -72,6 +72,6 @@ USER 1001
 
 VOLUME /config
 
-EXPOSE 8989/tcp
+EXPOSE 7878/tcp
 
 CMD [ "/app/Radarr", "-nobrowser", "-data=/config" ]
